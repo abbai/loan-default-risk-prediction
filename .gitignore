@@ -1,0 +1,18 @@
+# virtualenv
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# data (kaggle files)
+data/
+
+# optional: large models
+# artifacts/models/
